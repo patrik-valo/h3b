@@ -1,0 +1,7 @@
+C:/Users/OMISTAJA/Documents/Koodit/h2aqt/CMakeFiles/h2aqt.dir
+C:/Users/OMISTAJA/Documents/Koodit/h2aqt/CMakeFiles/edit_cache.dir
+C:/Users/OMISTAJA/Documents/Koodit/h2aqt/CMakeFiles/rebuild_cache.dir
+C:/Users/OMISTAJA/Documents/Koodit/h2aqt/CMakeFiles/list_install_components.dir
+C:/Users/OMISTAJA/Documents/Koodit/h2aqt/CMakeFiles/install.dir
+C:/Users/OMISTAJA/Documents/Koodit/h2aqt/CMakeFiles/install/local.dir
+C:/Users/OMISTAJA/Documents/Koodit/h2aqt/CMakeFiles/install/strip.dir
